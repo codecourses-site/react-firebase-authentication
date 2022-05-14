@@ -49,10 +49,9 @@ To run the demo follow these steps:
 4. Import and inject your secret keys in the **.env** file containing your Firebase keys in this manner.
 
 ```js
-REACT_APP_FIREBASE_API_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_FIREBASE_AUTH_DOMAIN = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
-REACT_APP_FIREBASE_STORAGE_BUCKET =
-  xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_AUTH_DOMAIN=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_STORAGE_BUCKET=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 ```
 
 11. Make sure to exclude **.env** in your gitIgnore file from being exposed online.
